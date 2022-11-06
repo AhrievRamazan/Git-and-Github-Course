@@ -3,7 +3,9 @@
     padding: 0;
 }
 
-
+body{
+    background:#333;
+}
 
 .imgBx{
     overflow: hidden;
